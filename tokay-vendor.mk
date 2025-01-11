@@ -480,15 +480,12 @@ PRODUCT_PACKAGES += \
     vendor.google.whitechapel.audio.audioext@4.0 \
     vendor.google.whitechapel.audio.extension-V3-ndk \
     VZWAPNLib \
-    AICorePrebuilt-aicore_20240509.01_RC02 \
     AppDirectedSMSService \
     CarrierSettings_signed_49.0.645958608 \
     CarrierWifi \
     ConnMO \
     DCMO \
     DMService \
-    DeviceIntelligenceNetworkPrebuilt-U.32_V.7_playstore_astrea_20240725.00_RC01 \
-    DevicePersonalizationPrebuiltPixel2024-U.32_V.7_playstore_aiai_20240725.00_RC08 \
     DiagMon \
     EuiccGoogle \
     HardwareInfo \
