@@ -555,7 +555,6 @@ PRODUCT_PACKAGES += \
     vendor.google.whitechapel.audio.audioext@4.0 \
     vendor.google.whitechapel.audio.extension-V5-ndk \
     VZWAPNLib \
-    AICorePrebuilt-aicore_20250130.00_RC01 \
     AppDirectedSMSService \
     CarrierSettings_signed_53.0.733201674 \
     CarrierWifi \
